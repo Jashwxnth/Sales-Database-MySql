@@ -1,0 +1,11 @@
+ID,Date,Region,City,Category,Qty,UnitPrice
+1,01-01-2022,East,Boston,Bars,33,1.77
+2,04-01-2022,East,Boston,Crackers,87,3.49
+13,07-01-2022,West,Los Angeles,Cookies,58,1.87
+14,10-01-2022,East,New York,Cookies,82,1.87
+15,13-01-2022,East,Boston,Cookies,87,2.18
+16,16-01-2022,East,Boston,Bars,54,1.77
+17,19-01-2022,East,Boston,Crackers,149,3.49
+18,22-01-2022,West,Los Angeles,Bars,87,1.77
+9,25-01-2022,East,New York,Bars,100,1.77
+10,28-01-2022,East,New York,Snacks,28,1.35

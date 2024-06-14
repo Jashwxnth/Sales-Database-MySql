@@ -1,0 +1,11 @@
+ID,SalesTeam,Product,SalesAmount
+1,Product Team,Bike,500
+2,Design Team,Car,1000
+3,Marketing Team,Bus,1500
+11,Product Team,Bike,2000
+5,Design Team,Car,2500
+12,Marketing Team,Bus,3000
+7,Design Team,Bike,3500
+13,Marketing Team,Car,4000
+9,Product Team,Bus,4500
+10,Design Team,Bike,5000
